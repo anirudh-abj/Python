@@ -1,1 +1,3 @@
 Everything in python is a object ?  - https://docs.python.org/3/reference/datamodel.html
+__init__.py ???
+__repr__ vs __str__
